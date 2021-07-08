@@ -4,7 +4,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> </p>
 <hr>
-<h2>Instructions for 01_cryptocurrencies.rb</h2>
+<h2>Instructions for 00_journalists.rb</h2>
 <p>Combien y a-t-il de handle dans cette array ?</p>
 <p>Quel est le handle le plus court de cette liste ?</p>
 <p>Combien y-a-t'il de handle contenant 5 caractères (le @ ne compte pas pour un caractère)</p>
